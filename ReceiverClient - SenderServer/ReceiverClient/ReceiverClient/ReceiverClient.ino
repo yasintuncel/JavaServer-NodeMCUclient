@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-char*        wifiName = "Gaziantepsporlular";  // Wifi Name
-char*        wifiPass = "KelleninKefi";        // Wifi Password
+char*        wifiName = "x";     // Wifi Name
+char*        wifiPass = "y";     // Wifi Password
 
 const uint16_t  port      = 8080;
 const char *    serverIP  = "192.168.1.55"; // ip or dns
